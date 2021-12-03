@@ -61,4 +61,4 @@ Approximately 30% of the test data is used to calculate a public RMSE value. The
 
 Code for this problem can be found here [Revenue Prediction](./Revenue-Prediction.R)
 
-Web Link to the Kaggle competition(Team Name: **Team Test Data-5** and Rankings can be found here [Kaggle](https://www.kaggle.com/c/2021-5103-hw6/leaderboard)
+Web Link to the Kaggle competition(Team Name: **Team Test Data-5** and LeaderBoard can be found here [Kaggle](https://www.kaggle.com/c/2021-5103-hw6/leaderboard)

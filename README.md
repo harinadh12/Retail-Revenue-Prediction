@@ -58,8 +58,8 @@ Approximately 30% of the test data is used to calculate a public RMSE value. The
 * revenue: total transaction revenue for the session -- Note! This is the outcome variable of interest
 
 ## File descriptions
-* train.csv - the training set
-* test.csv - the test set
+* Train.csv - the training set
+* Test.csv - the test set
 
 Code for this problem can be found here [Revenue Prediction](./Revenue-Prediction.R)
 Multiple models ranging from Ordinary Least Squares to Gradient Boosting Machines are modelled on the training data and evaluated on test data and best model is selected 

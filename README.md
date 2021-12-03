@@ -9,7 +9,7 @@ In many businesses, identifying which customers will make a purchase and how muc
 ## The challenge: Predict total sales
 The data provides information on customer's website site visit behavior. Customers may visit the store multiple times, on multiple days, with or without making a purchase. Your goal is to predict how much sales revenue can be expected from each customer. The variable  lists the amount of money that a customer spends on a given visit. Your goal is to predict how much money a customer will spend, in total, across all visits to the site, during the allotted one-year time frame, August 2016 to August 2017.
 
-More specifically, I had to predict a transformation of the aggregrate customer-level sales value based on the natural log. That is, if a customer has multiple revenue transactions, then I computed the sum of all the revenue generated across all of the transactions and transform the resulting sum.
+More specifically,you will need to predict a transformation of the aggregrate customer-level sales value based on the natural log. That is, if a customer has multiple revenue transactions, then you should compute the sum of all the revenue generated across all of the transactions and transform the resulting sum.
 
 
 ## Challenge instructions
@@ -60,5 +60,8 @@ Approximately 30% of the test data is used to calculate a public RMSE value. The
 * test.csv - the test set
 
 Code for this problem can be found here [Revenue Prediction](./Revenue-Prediction.R)
+Multiple models ranging from Ordinary Least Squares to Gradient Boosting Machines are modelled on the training data and evaluated on test data and best model is selected 
+across OLS, MARS, ELASTICNET, SVM & GBM.
 
+Interestingly, Tree based model GBM performed better than other models.
 Web Link to the Kaggle competition(Team Name: **Team Test Data-5** and LeaderBoard can be found here [Kaggle](https://www.kaggle.com/c/2021-5103-hw6/leaderboard)

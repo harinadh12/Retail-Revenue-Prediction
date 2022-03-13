@@ -3,7 +3,8 @@
 This Problem is hosted as an in-class kaggle competition for course Intelligent Data Analytics 
 during my masters in Data Science and Analytics at University of Oklahoma.
 
-Team Name: **_Team Test Data-5_**
+Team Name: **_Team Test Data-5_**\
+Web Link to the Kaggle competition and LeaderBoard can be found here [Kaggle](https://www.kaggle.com/c/2021-5103-hw6/leaderboard)
 
 ## Problem Description :
 In many businesses, identifying which customers will make a purchase and how much will they spend, is a critical exercise. This is true for both brick-and-mortar outlets and online stores. The data provided in this challenge is website traffic data acquired from an online retailer.
@@ -66,4 +67,3 @@ Multiple models ranging from Ordinary Least Squares to Gradient Boosting Machine
 across OLS, MARS, ELASTICNET, SVM & GBM.
 
 Interestingly, Tree based model GBM performed better than other models.
-Web Link to the Kaggle competition and LeaderBoard can be found here [Kaggle](https://www.kaggle.com/c/2021-5103-hw6/leaderboard)

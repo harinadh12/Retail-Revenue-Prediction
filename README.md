@@ -6,7 +6,7 @@
 2. [Data Understanding](#data-understanding)
 3. [Exploratory Data Analysis](#exploratory-data-analysis)
 4. [Feature Engineering](#feature-engineering)
-5. [Modeling and Hyperparameter Tuning](#mod)
+5. [Modeling and Hyperparameter Tuning](#modeling-and-hyper-parameter-tuning)
 6. [Results and Model Evaluation](#)
 7. [Conclusion](#)
 ## *Problem Description* :

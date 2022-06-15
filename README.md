@@ -74,7 +74,7 @@
 * Organic and Referral medium are dominant categories of medium of customer website behavior.
 
 ### Widely Used Operating System 
-<img src='./images/Os_bar_plot.png'>
+<img src='./images/OS_bar_plot.png'>
 
 * From the above bar plot, we can see Windows and Mac operating systems are dominant which is true as most visits are through desktop.
 ### Number of Page views vs Revenue of Visit

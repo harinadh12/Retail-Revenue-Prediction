@@ -136,7 +136,7 @@ plot_features <- function(tr1){
 }
 
 
-
+plot_features(tr1)
 
 set.seed(1000)
 

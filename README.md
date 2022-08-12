@@ -80,7 +80,7 @@
 ### Number of Page views vs Revenue of Visit
 <img src='./images/page_views_scatter_plot.png'>
 
-* Though there is no simple linear relationship between pageviews and revenue generated from customer visit, we can see most of the page views where revenue generated is less than 100.
+* Though there is no simple linear relationship between pageviews and revenue generated from customer visit, we can see most of the page views are less than 100.
 
 ## Feature Engineering
 * To aggregate features of customers across their online visits, mean, median and standard deviation are used for numerical features and mode is used for categorical features.
